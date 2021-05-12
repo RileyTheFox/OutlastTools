@@ -270,7 +270,7 @@ dealloc(*)
             <CheatEntry>
               <ID>50</ID>
               <Description>"player_Health"</Description>
-              <LastState Value="72" RealAddress="7FF4B77131A8"/>
+              <LastState Value="100" RealAddress="7FF4A54A31A8"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -282,7 +282,7 @@ dealloc(*)
             <CheatEntry>
               <ID>60</ID>
               <Description>"player_HitBox"</Description>
-              <LastState Value="30" RealAddress="7FF4B6ECBFAC"/>
+              <LastState Value="30" RealAddress="7FF49E60E92C"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -294,7 +294,7 @@ dealloc(*)
             <CheatEntry>
               <ID>54</ID>
               <Description>"player_Collide_H"</Description>
-              <LastState Value="-1" RealAddress="7FF4B771328C"/>
+              <LastState Value="-1" RealAddress="7FF4A54A328C"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -313,7 +313,7 @@ dealloc(*)
             <CheatEntry>
               <ID>65</ID>
               <Description>"player_CameraBatteries"</Description>
-              <LastState Value="5" RealAddress="7FF4BEF18BA0"/>
+              <LastState Value="9" RealAddress="7FF49DB47AE0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>4 Bytes</VariableType>
@@ -325,7 +325,7 @@ dealloc(*)
             <CheatEntry>
               <ID>67</ID>
               <Description>"player_MaxCameraBatteries"</Description>
-              <LastState Value="10" RealAddress="7FF4BEF18BA4"/>
+              <LastState Value="10" RealAddress="7FF49DB47AE4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>4 Bytes</VariableType>
@@ -337,7 +337,7 @@ dealloc(*)
             <CheatEntry>
               <ID>70</ID>
               <Description>"player_NightVision"</Description>
-              <LastState Value="0.8512509465" RealAddress="7FF4B77131E8"/>
+              <LastState Value="0.5491400361" RealAddress="7FF4A54A31E8"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -356,7 +356,7 @@ dealloc(*)
             <CheatEntry>
               <ID>33</ID>
               <Description>"player_Y Coordinate"</Description>
-              <LastState Value="-0.8500015736" RealAddress="7FF4B77100C8"/>
+              <LastState Value="-401.8302002" RealAddress="7FF4A54A00C8"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -368,7 +368,7 @@ dealloc(*)
             <CheatEntry>
               <ID>31</ID>
               <Description>"player_Z Coordinate"</Description>
-              <LastState Value="-8329.15625" RealAddress="7FF4B77100C0"/>
+              <LastState Value="4385.155273" RealAddress="7FF4A54A00C0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -380,7 +380,7 @@ dealloc(*)
             <CheatEntry>
               <ID>32</ID>
               <Description>"player_X Coordinate"</Description>
-              <LastState Value="-1559.599487" RealAddress="7FF4B77100C4"/>
+              <LastState Value="2488.642334" RealAddress="7FF4A54A00C4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -399,7 +399,7 @@ dealloc(*)
             <CheatEntry>
               <ID>41</ID>
               <Description>"player_EntityBaseScale"</Description>
-              <LastState Value="1" RealAddress="7FF4B77100D8"/>
+              <LastState Value="1" RealAddress="7FF4A54A00D8"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -411,7 +411,7 @@ dealloc(*)
             <CheatEntry>
               <ID>40</ID>
               <Description>"player_EntityScale1"</Description>
-              <LastState Value="1" RealAddress="7FF4B77100DC"/>
+              <LastState Value="1" RealAddress="7FF4A54A00DC"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -423,7 +423,7 @@ dealloc(*)
             <CheatEntry>
               <ID>39</ID>
               <Description>"player_EntityScale2"</Description>
-              <LastState Value="1" RealAddress="7FF4B77100E0"/>
+              <LastState Value="1" RealAddress="7FF4A54A00E0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -435,7 +435,7 @@ dealloc(*)
             <CheatEntry>
               <ID>38</ID>
               <Description>"player_EntityScale3"</Description>
-              <LastState Value="1" RealAddress="7FF4B77100E4"/>
+              <LastState Value="1" RealAddress="7FF4A54A00E4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -454,7 +454,7 @@ dealloc(*)
             <CheatEntry>
               <ID>36</ID>
               <Description>"GameSpeed"</Description>
-              <LastState Value="1" RealAddress="7FF4B77100FC"/>
+              <LastState Value="1" RealAddress="7FF4A54A00FC"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>004000</Color>
               <VariableType>Float</VariableType>
@@ -518,12 +518,19 @@ TeleTimer.destroy()
 </AssemblerScript>
             </CheatEntry>
             <CheatEntry>
-              <ID>62</ID>
-              <Description>"Reduce Hitbox (Hotkey = F6)"</Description>
-              <LastState/>
-              <Color>004000</Color>
-              <VariableType>Auto Assembler Script</VariableType>
-              <AssemblerScript>{$lua}
+              <ID>76</ID>
+              <Description>"Reduce Hitbox - Wallride Manually"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>62</ID>
+                  <Description>"Reduce Hitbox_Shimmy (Hotkey = F4)"</Description>
+                  <LastState/>
+                  <Color>004000</Color>
+                  <VariableType>Auto Assembler Script</VariableType>
+                  <AssemblerScript>{$lua}
 if syntaxcheck then return end
 
 {$asm}
@@ -531,10 +538,16 @@ if syntaxcheck then return end
 [ENABLE]
 
 {$lua}
-
-if HitBox ~= 5 then
-  writeFloat('[p_HitBox]+22C', 5)
+local n
+  n = {'Reduce Hitbox_Door (Hotkey = F5)','Reduce Hitbox_Vault (Hotkey = F6)'}
+  for k,v in ipairs(n) do
+    if AddressList[v].Active == true then
+      error()
+    end
   end
+
+  writeFloat('[p_HitBox]+22C', 2)
+
 {$asm}
 
 OLGame.exe+252F08:
@@ -549,17 +562,119 @@ OLGame.exe+252F08:
 OLGame.exe+252F08:
   db F3 0F 11 89 2C 02 00 00
 </AssemblerScript>
-              <Hotkeys>
-                <Hotkey>
-                  <Action>Toggle Activation</Action>
-                  <Keys>
-                    <Key>117</Key>
-                  </Keys>
-                  <ID>0</ID>
-                  <ActivateSound>Activate</ActivateSound>
-                  <DeactivateSound>Deactivate</DeactivateSound>
-                </Hotkey>
-              </Hotkeys>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Toggle Activation</Action>
+                      <Keys>
+                        <Key>115</Key>
+                      </Keys>
+                      <ID>0</ID>
+                      <ActivateSound>Activate</ActivateSound>
+                      <DeactivateSound>Deactivate</DeactivateSound>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>74</ID>
+                  <Description>"Reduce Hitbox_Door (Hotkey = F5)"</Description>
+                  <LastState/>
+                  <Color>004000</Color>
+                  <VariableType>Auto Assembler Script</VariableType>
+                  <AssemblerScript>{$lua}
+if syntaxcheck then return end
+
+{$asm}
+
+[ENABLE]
+
+{$lua}
+local n
+  n = {'Reduce Hitbox_Shimmy (Hotkey = F4)','Reduce Hitbox_Vault (Hotkey = F6)'}
+  for k,v in ipairs(n) do
+    if AddressList[v].Active == true then
+      error()
+    end
+  end
+
+  writeFloat('[p_HitBox]+22C', 5)
+
+{$asm}
+
+OLGame.exe+252F08:
+  db 90 90 90 90 90 90 90 90
+
+[DISABLE]
+
+{$lua}
+  writeFloat('[p_HitBox]+22C', 30)
+{$asm}
+
+OLGame.exe+252F08:
+  db F3 0F 11 89 2C 02 00 00
+</AssemblerScript>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Toggle Activation</Action>
+                      <Keys>
+                        <Key>116</Key>
+                      </Keys>
+                      <ID>0</ID>
+                      <ActivateSound>Activate</ActivateSound>
+                      <DeactivateSound>Deactivate</DeactivateSound>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>75</ID>
+                  <Description>"Reduce Hitbox_Vault (Hotkey = F6)"</Description>
+                  <LastState/>
+                  <Color>004000</Color>
+                  <VariableType>Auto Assembler Script</VariableType>
+                  <AssemblerScript>{$lua}
+if syntaxcheck then return end
+
+{$asm}
+
+[ENABLE]
+
+{$lua}
+local n
+  n = {'Reduce Hitbox_Door (Hotkey = F5)','Reduce Hitbox_Shimmy (Hotkey = F4)'}
+  for k,v in ipairs(n) do
+    if AddressList[v].Active == true then
+      error()
+    end
+  end
+
+  writeFloat('[p_HitBox]+22C', 15)
+
+{$asm}
+
+OLGame.exe+252F08:
+  db 90 90 90 90 90 90 90 90
+
+[DISABLE]
+
+{$lua}
+  writeFloat('[p_HitBox]+22C', 30)
+{$asm}
+
+OLGame.exe+252F08:
+  db F3 0F 11 89 2C 02 00 00
+</AssemblerScript>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Toggle Activation</Action>
+                      <Keys>
+                        <Key>117</Key>
+                      </Keys>
+                      <ID>0</ID>
+                      <ActivateSound>Activate</ActivateSound>
+                      <DeactivateSound>Deactivate</DeactivateSound>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+              </CheatEntries>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -1104,6 +1219,6 @@ OLGame.exe+252F08:
   </Structures>
   <Comments>Door = 5
 Shimmy = 2
-Jump Animation = 15
+Vault = 15
 </Comments>
 </CheatTable>
