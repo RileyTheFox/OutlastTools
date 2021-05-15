@@ -1,0 +1,7 @@
+Binaries
+UDKGame/Content/GlobalShaderCache*.bin
+UDKGame/Content/RefShaderCache*.upk
+UDKGame/Content/Maps/Custom
+UDKGame/Content/OLGame
+UDKGame/Logs/*
+UDKGame/Script/*
