@@ -1,3 +1,4 @@
 [submodule "Outlast-Level-Editor"]
 	path = Outlast-Level-Editor
 	url = https://github.com/superboo07/Outlast-Level-Editor
+	branch = main
