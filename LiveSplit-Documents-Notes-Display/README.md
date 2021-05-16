@@ -21,10 +21,11 @@ In the `Component Settings` window for the AutoSplitter, set the `Script Path` t
 6. Repeat **Step 2 - Step 5** for Documents/Notes (whichever you have not yet added)
 
 If done correctly, your LiveSplit layout should now be showing this (It will just display zero unless you load a save in Outlast where you have collected something)
+
 ![LiveSplit with Documents and Notes display](https://upload.rileythefox.co.uk/cagA5/NaVEtOli84.png/raw)
 
 ## Q&A
-**Q**: Is this allowed in speedruns?
+**Q**: Is this allowed in speedruns?  
 **A**: Yes! The moderators decided that this does not provide any advantage or that it is cheating as it just simply displays how many you have collected.
 
 If you encounter any trouble setting it up, be sure to join the [Outlast Speedrunning Discord](https://discord.gg/vyMZQSrtMA) and ask in the #questions channel.
